@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="screenshots/02-wealth-projector.png" alt="Wealth Ledger — 20-Year Wealth Projector" width="100%">
+<img src="Images/screenshots/02-wealth-projector.png" alt="Wealth Ledger — 20-Year Wealth Projector" width="100%">
 
 </div>
 
