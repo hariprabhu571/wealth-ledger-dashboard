@@ -134,7 +134,7 @@ No build step. No `npm install`. No server.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/wealth-ledger.git
+git clone [https://github.com/hariprabhu571/wealth-ledger.git](https://github.com/hariprabhu571/wealth-ledger-dashboard)
 cd wealth-ledger
 
 # 2. Open it
