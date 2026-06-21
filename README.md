@@ -76,7 +76,7 @@ A suggested allocation built around what you actually hold, a month-by-month act
 <details>
 <summary><b>SIP & Return Calculator — overlay any funds on one chart</b></summary>
 <br>
-<img src="screenshots/03-sip-calculator.png" alt="SIP calculator with multi-fund comparison chart" width="100%">
+<img src="Images/screenshots/03-sip-calculator.png" alt="SIP calculator with multi-fund comparison chart" width="100%">
 </details>
 
 <br>
