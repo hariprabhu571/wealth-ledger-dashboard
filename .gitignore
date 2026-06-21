@@ -1,0 +1,11 @@
+# Wealth Ledger — exported personal data
+# Never commit your exported holdings backup — it contains real numbers.
+*holdings*.json
+wealth-ledger-holdings.json
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
