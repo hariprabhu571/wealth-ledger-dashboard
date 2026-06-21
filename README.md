@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="Images/screenshots/02-wealth-projector.png" alt="Wealth Ledger — 20-Year Wealth Projector" width="100%">
+<img src="Images/02-wealth-projector.png" alt="Wealth Ledger — 20-Year Wealth Projector" width="100%">
 
 </div>
 
@@ -68,7 +68,7 @@ A suggested allocation built around what you actually hold, a month-by-month act
 <details open>
 <summary><b>Portfolio Snapshot — add, edit, and visualize your holdings</b></summary>
 <br>
-<img src="screenshots/01-portfolio-snapshot.png" alt="Portfolio snapshot with editable mutual funds and stocks table" width="100%">
+<img src="Images/01-portfolio-snapshot.png" alt="Portfolio snapshot with editable mutual funds and stocks table" width="100%">
 </details>
 
 <br>
@@ -76,7 +76,7 @@ A suggested allocation built around what you actually hold, a month-by-month act
 <details>
 <summary><b>SIP & Return Calculator — overlay any funds on one chart</b></summary>
 <br>
-<img src="Images/screenshots/03-sip-calculator.png" alt="SIP calculator with multi-fund comparison chart" width="100%">
+<img src="Images/03-sip-calculator.png" alt="SIP calculator with multi-fund comparison chart" width="100%">
 </details>
 
 <br>
@@ -84,7 +84,7 @@ A suggested allocation built around what you actually hold, a month-by-month act
 <details>
 <summary><b>Fund Category Deep-Dive — full comparison + verdict card</b></summary>
 <br>
-<img src="screenshots/04-fund-comparison.png" alt="Flexi Cap fund comparison table, charts, and verdict card" width="100%">
+<img src="Images/04-fund-comparison.png" alt="Flexi Cap fund comparison table, charts, and verdict card" width="100%">
 </details>
 
 <br>
@@ -92,7 +92,7 @@ A suggested allocation built around what you actually hold, a month-by-month act
 <details>
 <summary><b>Recommended Portfolio — built around what you hold</b></summary>
 <br>
-<img src="screenshots/05-recommended-portfolio.png" alt="Recommended portfolio allocation chart and SIP split table" width="100%">
+<img src="Images/05-recommended-portfolio.png" alt="Recommended portfolio allocation chart and SIP split table" width="100%">
 </details>
 
 <br>
